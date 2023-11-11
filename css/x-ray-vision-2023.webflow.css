@@ -34,7 +34,7 @@
 
 .section {
   min-height: 100vh;
-  color: #fff;
+  color: white;
 }
 .section.landing {
   position: relative;
@@ -224,12 +224,6 @@
   padding-bottom: 20px;
   letter-spacing: 5px;
 }
-.div-block-4 {
-  position: initial;
-  left: 25%;
-  text-align: center;
-  right: 20%;
-}
 .text-span {
   color: #f24110;
 }
@@ -243,7 +237,7 @@
   z-index: 0;
   width: 100%;
   height: 100vh;
-  background-image: url('../imagesyimin/opo0432d.jpg');
+  background-image: url('../imagesyimin/DALL2.png');
   background-position: center;
   background-size: cover;
 }
@@ -974,7 +968,7 @@
   }
 
   .h1 {
-    font-size: 40px;
+    font-size: 55px;
     line-height: 1.1;
   }
 
