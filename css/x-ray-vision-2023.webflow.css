@@ -84,7 +84,10 @@
   background-size: cover;
   margin-bottom: 25vh;
 }
-
+.logo{
+  position: relative;
+  size: 1px;
+}
 .section.welcome {
   height: auto;
   min-height: 100vh;
