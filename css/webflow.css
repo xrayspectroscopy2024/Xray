@@ -55,6 +55,7 @@ body {
   color: #333;
 }
 img {
+  size: cover;
   max-width: 100%;
   vertical-align: middle;
   display: inline-block;
