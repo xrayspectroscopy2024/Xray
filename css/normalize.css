@@ -145,6 +145,11 @@ li{
   line-height: 35px;
   
 }
+.sign{
+  font-size: large;
+  line-height: 35px;
+  padding-bottom: 20px;
+}
 /**
  * Address inconsistent and variable font size in all browsers.
  */
