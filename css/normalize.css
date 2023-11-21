@@ -150,10 +150,6 @@ li{
   line-height: 35px;
   padding-bottom: 20px;
 }
-.ROUTE{
-  display: flex;
-  align-items: center;
-}
 .spend{
   font-family: 'Courier New', Courier, monospace;
   font-size: 20px;
